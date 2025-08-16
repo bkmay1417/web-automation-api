@@ -1,0 +1,17 @@
+{
+    "status": "completed",
+    "data": [
+        {
+            "name": "Producto A",
+            "price": "100",
+            "description": "Desc A",
+            "image_url": "url_a"
+        },
+        {
+            "name": "Producto B",
+            "price": "200",
+            "description": "Desc B",
+            "image_url": "url_b"
+        }
+    ]
+}
